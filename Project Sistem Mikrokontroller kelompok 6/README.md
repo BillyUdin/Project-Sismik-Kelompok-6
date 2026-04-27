@@ -1,5 +1,5 @@
 # 🌀 Kipas Otomatis Berbasis Suhu — Arduino Uno
-
+test
 > **Mata Kuliah:** Sistem Mikrokontroler (TK244004)  
 > **Program Studi:** S1 Teknik Komputer — Universitas Jenderal Soedirman  
 > **Dosen Pengampu:** Ucky Pradestha Novettralita, S.Pd., M.Kom  
@@ -111,3 +111,6 @@ loop:
 ## 📝 Lisensi
 
 Proyek ini dibuat untuk keperluan akademik — **Project I Sistem Mikrokontroler**, Fakultas Teknik, Universitas Jenderal Soedirman.
+
+## kontributor
+Salafudinn
