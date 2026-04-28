@@ -1,4 +1,4 @@
-# 🌀 Kipas Otomatis Berbasis Suhu — Arduino Uno
+# Kipas Otomatis Berbasis Suhu — Arduino Uno
 test
 > **Mata Kuliah:** Sistem Mikrokontroler (TK244004)  
 > **Program Studi:** S1 Teknik Komputer — Universitas Jenderal Soedirman  
